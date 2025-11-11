@@ -1,0 +1,11 @@
+{
+    "homepage": "TODO",
+    "1.12.2": {
+        "0.1.0": "Initial release!",
+        "0.2.0": "TEST"
+    },
+    "promos": {
+        "1.12.2-latest": "0.2.0",
+        "1.12.2-recommended": "0.2.0"
+    }
+}
